@@ -76,7 +76,7 @@ class ARP(DefaultNetworkLayer):
             "Unknown MAC": "Unknown MAC"
         },
         "dst_proto_addr": {
-            "detail": "Source Protocol Address"
+            "detail": "Destination Protocol Address"
         } 
     }
 
